@@ -1,0 +1,13 @@
+package basic;
+public class FirstProgram 
+{
+      public static void main(String[] args)  //main method 
+      {
+		 System.out.println("Sahin Parveen");
+		 System.out.println("Prveen Sahin");
+		 System.out.print("Student");
+		 System.out.println("My Practice");
+		 System.out.println("My Note Book");
+		 
+		 
+		 
